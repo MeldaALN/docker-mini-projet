@@ -4,7 +4,8 @@
 ![Flask](https://img.shields.io/badge/Flask-API-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
 ![Nginx](https://img.shields.io/badge/Nginx-ReverseProxy-orange)
-![CI](https://img.shields.io/badge/GitHub%20Actions-CI-success)#  Docker Mini App
+![CI](https://img.shields.io/badge/GitHub%20Actions-CI-success) 
+#  Docker Mini App
 
 ## Description
 
